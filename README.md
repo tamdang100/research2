@@ -12,5 +12,11 @@
 - Transformed and processed data using **Power Query and Stata** to ensure data completeness and validity
 - Estimated firm productivity and performed different empirical panel data analyses using **Stata**
 
+![image](https://github.com/user-attachments/assets/efec5909-9832-4f64-95b8-07d5b85f9ce1)
 
+![image](https://github.com/user-attachments/assets/db978958-4c98-43a2-83be-33e193c5d3ed)
+
+![image](https://github.com/user-attachments/assets/ed6d8b67-70e8-4526-bc52-fe9812e6f5b7)
+
+![image](https://github.com/user-attachments/assets/8af08637-f509-443e-a583-92fa70fbf11c)
 
