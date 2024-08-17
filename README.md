@@ -8,7 +8,7 @@
 - Published in Energy Economics (an **A star-ranked & top field** journal)
 
 ### Technical skills used in this project
-- Retrieved the firm-level data from **Refinitiv Workspace** using **Eikon Data API for Python** (please see "Collecting data from Refinitiv.ipynb" above)
+- Retrieved the firm-level data from **Refinitiv Workspace** using **Eikon Data API for Python** (please see the file "Refinitiv.ipynb" above)
 - Transformed and processed data using **Power Query and Stata** to ensure data completeness and validity
 - Estimated firm productivity and performed different empirical panel data analyses using **Stata**
 
